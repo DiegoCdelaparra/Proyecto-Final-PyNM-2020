@@ -1,5 +1,8 @@
-# PROYECTO FINAL
 # Practicas realizadas en 2do Semestre
+## Elaborado por el alumno Diego Contreras de la Parra
+## Grupo 21
+
+### Repositorio donde se encuentran las diferentes practicas realizadas en segundo semestre de la clase de programacion y metodos numericos
 
 [Practica 1: Introduccion y tipos de variables](https://github.com/DiegoCdelaparra/Proyecto_PyMN_DiegoCdelaparra/tree/main/Practica%201_DiegoCdelaparra).
 
